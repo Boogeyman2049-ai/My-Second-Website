@@ -43,7 +43,7 @@ HTML_PAGE = """
             box-shadow: 3px 3px 8px rgba(0,0,0,0.1);
         }
         .card-header {
-            background-color: #84ffc9;
+            background-color: ff0000;
             padding: 10px;
             font-weight: bold;
             text-align: center;
@@ -87,13 +87,13 @@ HTML_PAGE = """
             padding: 10px;
             text-align: center;
         }
-        th { background-color: #84ffc9; font-weight: bold; }
+        th { background-color: ff0000; font-weight: bold; }
         
         /* Lists */
         ul, ol { margin-top: 5px; padding-left: 20px; }
 
         .footer {
-            background-color: #84ffc9;
+            background-color: ff0000;
             text-align: center;
             padding: 20px;
             border-top: 2px solid #555;
