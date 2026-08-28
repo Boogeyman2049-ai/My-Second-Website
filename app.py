@@ -12,13 +12,12 @@ HTML_PAGE = """
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #dcdcdc; /* Light gray background */
+            background-color: #000000; /* Changed to Black */
             margin: 0;
             padding: 0;
-            color: #000;
-        }
+            color: #ffffff; /* Changed text to white for readability */        }
         .header {
-            background-color: #84ffc9; /* Mint green */
+            background-color: #ff0000; /* Changed to Red */          
             text-align: center;
             padding: 30px;
             border-bottom: 2px solid #555;
