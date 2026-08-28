@@ -12,12 +12,13 @@ HTML_PAGE = """
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #000000; /* Changed to Black */
+            background-color: #dcdcdc; /* Light gray background */
             margin: 0;
             padding: 0;
-            color: #ffffff; /* Changed text to white for readability */        }
+            color: #000;
+        }
         .header {
-            background-color: #ff0000; /* Changed to Red */          
+            background-color: #84ffc9; /* Mint green */
             text-align: center;
             padding: 30px;
             border-bottom: 2px solid #555;
@@ -43,7 +44,7 @@ HTML_PAGE = """
             box-shadow: 3px 3px 8px rgba(0,0,0,0.1);
         }
         .card-header {
-            background-color: ff0000;
+            background-color: #84ffc9;
             padding: 10px;
             font-weight: bold;
             text-align: center;
@@ -87,13 +88,13 @@ HTML_PAGE = """
             padding: 10px;
             text-align: center;
         }
-        th { background-color: ff0000; font-weight: bold; }
+        th { background-color: #84ffc9; font-weight: bold; }
         
         /* Lists */
         ul, ol { margin-top: 5px; padding-left: 20px; }
 
         .footer {
-            background-color: ff0000;
+            background-color: #84ffc9;
             text-align: center;
             padding: 20px;
             border-top: 2px solid #555;
@@ -184,19 +185,19 @@ HTML_PAGE = """
                     <th>Marks</th>
                 </tr>
                 <tr>
-                    <td>Rahul</td>
-                    <td>Male</td>
+                    <td>Kunal</td>
+                    <td>Female</td>
                     <td>HTML</td>
                     <td>85</td>
                 </tr>
                 <tr>
-                    <td>Priya</td>
-                    <td>Female</td>
+                    <td>Arkajyoti</td>
+                    <td>Preffer not to say</td>
                     <td>CSS</td>
                     <td>90</td>
                 </tr>
                 <tr>
-                    <td>Amit</td>
+                    <td>Surya</td>
                     <td>Male</td>
                     <td>JavaScript</td>
                     <td>88</td>
@@ -219,20 +220,24 @@ HTML_PAGE = """
                 <th>Course</th>
             </tr>
             <tr>
-                <td>rishab</td>
-                <td>kumarrishab451@gmail.com</td>
+                <td>Rishav</td>
+                <td>rishavdas2050@gmail.com</td>
                 <td>JavaScript</td>
             </tr>
             <tr>
-                <td>sam</td>
-                <td>hariprasadkoc99@gmail.com</td>
+                <td>Kunal</td>
+                <td>Homosexual69@gmail.com</td>
                 <td>HTML</td>
             </tr>
             <tr>
-                <td>suraj</td>
-                <td>rishabkumarsingh990@gmail.com</td>
+                <td>Surya</td>
+                <td>Acchabeta77@gmail.com</td>
                 <td>CSS</td>
             </tr>
+            <tr>
+                <td>Arkajyoti</td>
+                <td>BacchaChhele44</td>
+                <td>python</td>
         </table>
     </div>
 
